@@ -1,0 +1,2 @@
+# policies
+Google Play policies
