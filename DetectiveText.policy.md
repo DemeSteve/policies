@@ -8,12 +8,15 @@ Any data entered into the Detective Text - Find your phone with an SMS (hereinaf
 The user has the option to delete any data within the app as per their preference.
 
 # PERMISSIONS
-1. android.permission.RECEIVE_SMS and
-2. android.permission.READ_SMS:
-To ensure the app will act on when your SMS is received, permission is required to view SMS messages. The app will not send any SMS, your SMS messages will remain confidential and won't be forwarded.
+1. **android.permission.RECEIVE_SMS** and
+2. **android.permission.READ_SMS**
 
-3. android.permission.ACCESS_NOTIFICATION_POLICY:
-To ensure the phone will ring even when muted, permission is required to control the volume.
+   To ensure the app will act on when your SMS is received, permission is required to view SMS messages. The app will not send any SMS, your SMS messages will remain confidential and won't be forwarded.
 
-4. android.permission.SYSTEM_ALERT_WINDOW:
-The app should be able to start and show an Activity when your SMS is received. This is possible by granting this permission.
+4. **android.permission.ACCESS_NOTIFICATION_POLICY**
+
+   To ensure the phone will ring even when muted, permission is required to control the volume.
+
+6. **android.permission.SYSTEM_ALERT_WINDOW**
+
+   The app should be able to start and show an Activity when your SMS is received. This is possible by granting this permission.
