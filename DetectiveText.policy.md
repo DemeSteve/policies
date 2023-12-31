@@ -1,5 +1,5 @@
 # PRIVACY AND SECURITY
-We take your privacy seriously. The app operates entirely on your device and doesn't make any external server invocations. Your secret code is never transmitted or stored elsewhere, ensuring that you have complete control over when and how the app operates.
+We take your privacy seriously. The app operates entirely on your device and doesn't make any external server invocations. Your data is never transmitted or stored elsewhere, ensuring that you have complete control over when and how the app operates.
 
 # DATA COLLECTION
 Any data entered into the Detective Text - Find your phone with an SMS (hereinafter referred to as the app) application remains solely on the user's device and is not shared with any third party.
