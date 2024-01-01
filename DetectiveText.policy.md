@@ -1,3 +1,5 @@
+# PRIVACY POLICY
+
 # Detective Text - Find your phone with an SMS
 Welcome to Detective Text - Find your phone with an SMS (hereinafter referred to as the app) for Android!
 
