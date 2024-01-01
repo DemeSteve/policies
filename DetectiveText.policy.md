@@ -9,6 +9,14 @@ It only needs to be turned on and connected to a mobile network (not mobile data
 
 **The app will not send any SMS, your SMS messages will remain confidential and won't be forwarded**
 
+## ENTITY REFERENCE:
+
+Istvan Deme is the entity referred to in this privacy policy. Throughout this document, terms such as "we," "us," or "our" refer to Istvan Deme.
+
+If you have any questions or concerns regarding this privacy policy or the handling of your personal information, please contact us at:
+
+demesteve@gmail.com
+
 ## PRIVACY AND SECURITY
 We take your privacy seriously. The app operates entirely on your device and doesn't make any external server invocations. Your data is never transmitted or stored elsewhere, ensuring that you have complete control over when and how the app operates.
 
