@@ -3,8 +3,6 @@
 # PVP - Pediatric Vital Parameters
 Welcome to PVP - Pediatric Vital Parameters (hereinafter referred to as the app) for Android!
 
-The app is incredibly simple yet powerful. If you ever find yourself in a situation where you've misplaced your phone, and it's likely nearby but you can't locate it, simply use this application. Just send the secret SMS code, that you've previously set, to your phone from another device, and your device will start ringing on max volume even if it's on mute!
-
 **In order to function properly this app does not require your phone to be connected to the internet, Wi-Fi, mobile data, or Bluetooth to be activated.**
 
 ## ENTITY REFERENCE:
